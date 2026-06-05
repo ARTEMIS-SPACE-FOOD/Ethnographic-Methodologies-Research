@@ -1,0 +1,22 @@
+Artemis_Food_Ethnography_Demo/
+│
+├── README.md
+├── requirements.txt
+├── run_demo.py
+│
+├── data/
+│   └── cgmacros/                # PhysioNet dataset goes here (DO NOT commit)
+│
+├── src/
+│   ├── load_data.py
+│   ├── meal_extraction.py
+│   ├── ethnographic_features.py
+│   ├── biocultural_index.py
+│   └── report_generator.py
+│
+├── outputs/
+│   └── one_day_artemis_demo.xlsx
+│
+└── documentation/
+    ├── methodology.md
+    └── codebook.md

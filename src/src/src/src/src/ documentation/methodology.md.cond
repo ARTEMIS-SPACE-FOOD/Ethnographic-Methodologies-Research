@@ -1,0 +1,37 @@
+
+---
+
+# 📄 documentation/methodology.md (CONDENSED BUT CLEAN)
+
+```markdown
+# Methodology
+
+This study operationalizes an anthropological framework for interpreting food behavior in isolated spaceflight environments.
+
+Food is treated as:
+- a ritual system
+- a psychological regulator
+- a social synchronization mechanism
+- a biocultural adaptation signal
+
+## Analytical Layers
+
+### 1. Observational Layer
+CGMacros behavioral, meal, activity, and microbiome data.
+
+### 2. Analytical Layer
+Derived ethnographic variables:
+- ritual adherence
+- food diversity
+- meal completion
+- temporal stability
+
+### 3. Integration Layer
+Biocultural Adaptation Index combines:
+- behavioral adherence
+- dietary diversity
+- microbiome diversity
+- completion rates
+
+## Output
+A reproducible, single-day ethnographic reconstruction per participant.
